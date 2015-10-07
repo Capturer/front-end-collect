@@ -8,13 +8,14 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 ====
 
-#### [前端收集图谱](http://get-set.cn/front-end-chart/)
+#### [前端收集图谱](http://get-set.cn/front-end-collect/)
 
-- clone https://github.com/hjzheng/front-end-collect
+- git clone https://github.com/hjzheng/front-end-collect
 - cd front-end-collect 
 - bower install
 - 放入你喜欢的web容器,访问index.html即可
-- 你也直接可以访问: http://get-set.cn/front-end-chart/
+- 你也直接可以访问: http://get-set.cn/front-end-collect/
+- 支持Chrome, Firefox and IE10&11以上浏览器
 
 ![image](https://raw.githubusercontent.com/hjzheng/front-end-collect/master/img/front-end-chart.png)
 
@@ -114,7 +115,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Cat Chen|[陈广琛](http://catchen.biz/home.zh-CN.html)|[@CatChen](http://weibo.com/u/1640352230)|[@CatChen](https://github.com/CatChen)|[@CatChen](https://twitter.com/CatChen)|Facebook |大牛|
 |BYVod|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@byvoid](https://github.com/BYVoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者,大牛|
 |郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@turingou](https://github.com/turingou)|[@turingou](https://twitter.com/turingou)|糗事百科,原支付宝|Node.js|
-|勾三股四|#|[@勾三股四](http://weibo.com/mx006)|#|#|淘宝|#|
+|勾三股四|[勾三股四博客](http://jiongks.name/)|[@勾三股四](http://weibo.com/mx006)|#|#|淘宝|#|
 |cnberg|[冰山一角](http://cnberg.com)|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 骑行|
 |大猫| [意淫笔记](http://bigc.at)|[@daemao](http://weibo.com/daemao)|[@Damao](https://github.com/Damao)|[@13igcat](https://twitter.com/13igcat)|腾讯 |[知乎](http://www.zhihu.com/people/13igcat)|
 | hzlzh |[自力博客](https://zlz.im)|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://github.com/hzlzh)|[@hzlzh](http://twitter.com/hzlzh)| 腾讯|前端开发|
@@ -214,6 +215,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 - [【鸟哥】Laruence](http://weibo.com/p/1001603794538257899132)
 - [【Highcharts】Highcharts中文赞助](http://www.hcharts.cn/about/donate.php)
 - [【芒果云】 在线资源管理器](http://wwhttp://kalcaddle.com/about.html)
+- [wangeditor 轻量级web富文本编辑器](http://www.wangeditor.com/contact.html)
 
 ##[大漠](http://www.w3cplus.com)分享
 
